@@ -106,7 +106,7 @@ The air quality section provides additional insights into pollutant levels such 
 
 ### 🌦️ Weather Dashboard
 
-<img src="Screenshots/Weather.png" width="1000">
+<img src="Screenshots/Weather_Image.png" width="1000">
 
 > Add your Power BI dashboard screenshot inside the `Screenshots` folder and name it `Weather.png`.
 
